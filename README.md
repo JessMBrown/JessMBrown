@@ -1,9 +1,9 @@
 
+<img src="githubPictures/github top image.png" alt="GitBanner" style="margin-left: 20px;">
 
-## Jessica Brown Software Engineer specialising in Cyber Security & Vulnerability Research
 <p align="left">
-<img src="githubPictures/CFGAmbassador.jpg" alt="AmbassadorCodeFirstGirls" width="200" height="210" style="margin-left: 20px;">
-  <a href="#introduction">Introduction</a> | <a href="#achievements">Achievements</a> | <a href="#certificates">Certificates</a> | <a href="#what_next">What Next</a> | <a href="#Final_Words">Final Words</a> | 
+
+  <a href="#introduction">Introduction</a> | <a href="#achievements">Achievements</a> | <a href="#certificates">Certificates</a> | <a href="#what's_next">What's Next</a> |   
 </p>
 
 
@@ -44,26 +44,39 @@ I began using TryHackMe during my Cyber Security studies and have continued this
 <a name="certificates"></a>
 ### Certificates:
 
+<img src="githubPictures/CFGCyberMasters.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/CFGVulnerabilityMasters.png" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/Sofware Degree.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/THMCyberIntro.jpg" alt="badges" align="left" width="23%" height="150">
 
+<img src="githubPictures/KickstarterSQL.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/KickstarterWebDev.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/KickstarterPython.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/THMAdventOfCyber.jpg" alt="badges" align="left" width="23%" height="150">
 
+<img src="githubPictures/MoocCareer.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/MoocCloud.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/MoocJava.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/MoocMachine.jpg" alt="badges" align="left" width="23%" height="150">
+The next certificate I am currently working on is TryHackMe Basic Security to solidify the learning I have already completed and I will then be moving on to the pentester learning paths.
+                                                   
+---
+<a name="what's_next"></a>
+### What's Next:
+
+I am continuing my learning journey on TryHackMe and Hack the Box to develop my skills and practice all the skills I have already gained so far.
+I am also wanting to design my own CTF's challenges to gain a more in depth undertanding of the mistakes that can be coded which results in vulnerabilities.
+Cloud computing is another subject I am keen to persue and aim to do my AWS certifications in the near future.
 <br>
----
-<a name="Final_Words"></a>
-<br>
-<p>
-
----
-<a name="Final_Words"></a>
-### Final Words:
-<img src="githubPictures/giphy.webp" alt="giphy GIF" align="right" width="250" height="125" style="margin-left: 10px;">
 
 
 ---
+
 <a name="Created_by"></a>
 ### Created by:
 Jessica Brown
 
-🩷Please feel free to follow me on linkedin 🩷
+🩷Please feel free to follow me on linkedin I reguarly post about my cyber security journey and posts helping others transition into the tech industry 🩷
 
 https://www.linkedin.com/in/jb232020
 
@@ -74,20 +87,3 @@ https://www.linkedin.com/in/jb232020
 
 
 
-## Hi there 👋
-
-<!--
-**JessMBrown/JessMBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="githubPictures/setup.webp" alt="setup GIF" align="left" width="300" height="250" style="margin-right: 20px;">
