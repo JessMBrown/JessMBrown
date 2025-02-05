@@ -3,7 +3,7 @@
 
 <p align="left">
 
-  <a href="#introduction">Introduction</a> | <a href="#achievements">Achievements</a> | <a href="#certificates">Certificates</a> | <a href="#what's_next">What's Next</a> |   
+  <a href="#introduction">Introduction</a> | <a href="#achievements">Achievements</a> | <a href="#certificates">Certificates</a> | <a href="#what's_next">What's Next</a> 
 </p>
 
 
@@ -58,15 +58,15 @@ I began using TryHackMe during my Cyber Security studies and have continued this
 <img src="githubPictures/MoocCloud.jpg" alt="badges" align="left" width="23%" height="150">
 <img src="githubPictures/MoocJava.jpg" alt="badges" align="left" width="23%" height="150">
 <img src="githubPictures/MoocMachine.jpg" alt="badges" align="left" width="23%" height="150">
-The next certificate I am currently working on is TryHackMe Basic Security to solidify the learning I have already completed and I will then be moving on to the pentester learning paths.
+The next certificate I am currently working on is TryHackMe Basic Security to solidify the learning I have already completed and I will then be moving on to the penetration tester learning paths.
                                                    
 ---
 <a name="what's_next"></a>
 ### What's Next:
 
 I am continuing my learning journey on TryHackMe and Hack the Box to develop my skills and practice all the skills I have already gained so far.
-I am also wanting to design my own CTF's challenges to gain a more in depth undertanding of the mistakes that can be coded which results in vulnerabilities.
-Cloud computing is another subject I am keen to persue and aim to do my AWS certifications in the near future.
+I am also wanting to design my own CTF's challenges to gain a more in depth understanding of the mistakes that can be coded which results in vulnerabilities.
+Cloud computing is another subject I am keen to pursue and aim to do my AWS certifications in the near future.
 <br>
 
 
@@ -74,9 +74,9 @@ Cloud computing is another subject I am keen to persue and aim to do my AWS cert
 
 <a name="Created_by"></a>
 ### Created by:
-Jessica Brown
+Jessica Brown.
 
-🩷Please feel free to follow me on linkedin I reguarly post about my cyber security journey and posts helping others transition into the tech industry 🩷
+Please feel free to follow me on linkedin I regularly post about my cyber security journey and posts helping others transition into the tech industry.
 
 https://www.linkedin.com/in/jb232020
 
