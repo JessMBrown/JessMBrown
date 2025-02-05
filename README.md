@@ -43,23 +43,24 @@ I began using TryHackMe during my Cyber Security studies and have continued this
 ---
 <a name="certificates"></a>
 ### Certificates:
-
+<p align="center">
 <img src="githubPictures/CFGCyberMasters.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/CFGVulnerabilityMasters.png" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/Sofware Degree.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/THMCyberIntro.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/CFGVulnerabilityMasters.png" alt="badges" width="23%" height="150">
+<img src="githubPictures/Sofware Degree.jpg" alt="badges" width="23%" height="150">
+<img src="githubPictures/THMCyberIntro.jpg" alt="badges" align="right" width="23%" height="150">
 
 <img src="githubPictures/KickstarterSQL.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/KickstarterWebDev.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/KickstarterPython.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/THMAdventOfCyber.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/KickstarterWebDev.jpg" alt="badges" width="23%" height="150">
+<img src="githubPictures/KickstarterPython.jpg" alt="badges" width="23%" height="150">
+<img src="githubPictures/THMAdventOfCyber.jpg" alt="badges" align="right" width="23%" height="150">
 
 <img src="githubPictures/MoocCareer.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/MoocCloud.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/MoocJava.jpg" alt="badges" align="left" width="23%" height="150">
-<img src="githubPictures/MoocMachine.jpg" alt="badges" align="left" width="23%" height="150">
+<img src="githubPictures/MoocCloud.jpg" alt="badges" width="23%" height="150">
+<img src="githubPictures/MoocJava.jpg" alt="badges" width="23%" height="150">
+<img src="githubPictures/MoocMachine.jpg" alt="badges" align="right" width="23%" height="150">
+</p>
 The next certificate I am currently working on is TryHackMe Basic Security to solidify the learning I have already completed and I will then be moving on to the penetration tester learning paths.
-                                                   
+                                                 
 ---
 <a name="what's_next"></a>
 ### What's Next:
